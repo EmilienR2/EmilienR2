@@ -1,6 +1,6 @@
 # Présentation
 # Qui suis-je ?
-❓Je suis actuellement étudiant en 2e année de BUT Informatique
+❓Je suis actuellement étudiant en 2e année de BUT Informatique. <br>
 ✨Passion : Le sport tel que le volley-ball ou le tennis. Les jeux-vidéos, principalement des jeux aux mondes ouverts mais aussi multijoueurs. Pour finir les mangas, de tout type.
 
 # Projets :
