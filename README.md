@@ -7,4 +7,4 @@ Je suis actuellement étudiant en 2e année de BUT Informatique
 - 2ème année : développement d'une application en C++ sur du Ray Tracing (groupe de 4) à partir d'un squelette de code nous avions une image finale d'un rendu 3d et devions implémenter les différentes méthodes de plusieurs classes afin de recréer parfaitement l'image finale et par la suite créer nos propres images avec d'autres formes et d'autres effets de lumières.
   
 # Langages et outils :
-[badge](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg) [badge](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
+![badge](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg) ![badge](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
