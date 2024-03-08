@@ -1,7 +1,7 @@
 <h1 align="center">Présentation</h1>
 <h1 align="left">Qui suis-je ? </h1>
-#Je suis actuellement étudiant en 2e année de BUT Informatique
-##Je suis actuellement étudiant en 2e année de BUT Informatique
+# Je suis actuellement étudiant en 2e année de BUT Informatique
+## Je suis actuellement étudiant en 2e année de BUT Informatique
 
 
 <h1 align="left">Projets : </h1>
