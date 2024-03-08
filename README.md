@@ -1,5 +1,8 @@
 <h1 align="center">Présentation</h1>
-<h3 align="center">Etudiant en 2e année de BUT Informatique</h3>
+<h1 align="left">Qui suis-je ? </h1>
+#Je suis actuellement étudiant en 2e année de BUT Informatique
+##Je suis actuellement étudiant en 2e année de BUT Informatique
+
 
 <h1 align="left">Projets : </h1>
 <h3 align="left">- 1ère année : développement d'un jeu de société ("Le Verger") en Java et JavaFX en binôme que nous devions construire de zéro. Nous devions versionner ce projet afin de répondre aux attentes à chaque étape du projet. Nous avons dû nous occuper aussi bien du bon déroulement du jeu que de l'interface et des interactions de l'utilisateur.
