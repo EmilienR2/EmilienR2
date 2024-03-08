@@ -1,7 +1,7 @@
 # Présentation
 # Qui suis-je ?
-Je suis actuellement étudiant en 2e année de BUT Informatique
-Passion : Le sport tel que le volley-ball ou le tennis. Les jeux-vidéos, principalement des jeux aux mondes ouverts mais aussi multijoueurs. Pour finir les mangas, de tout type.
+❓Je suis actuellement étudiant en 2e année de BUT Informatique
+✨Passion : Le sport tel que le volley-ball ou le tennis. Les jeux-vidéos, principalement des jeux aux mondes ouverts mais aussi multijoueurs. Pour finir les mangas, de tout type.
 
 # Projets :
 - 1ère année : développement d'un jeu de société ("Le Verger") en Java et JavaFX en binôme que nous devions construire de zéro. Nous devions versionner ce projet afin de répondre aux attentes à chaque étape du projet. Nous avons dû nous occuper aussi bien du bon déroulement du jeu que de l'interface et des interactions de l'utilisateur.
