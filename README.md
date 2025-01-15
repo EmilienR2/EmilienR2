@@ -11,6 +11,7 @@
 - Développement du gameplay, des interactions utilisateur et de l’interface graphique.
 - Mise en place du versioning avec Git pour gérer les différentes étapes du projet.
 - Gestion des contraintes fonctionnelles et techniques pour garantir un produit final stable et intuitif.
+
 2ème année : Application Ray Tracing
 🔧 Technologies utilisées : C++
 👥 Travail en groupe de 4 personnes
@@ -18,6 +19,7 @@
 - Réalisation d’une image 3D correspondant aux attentes spécifiées, puis création d’images originales.
 - Approfondissement des concepts d’algorithmes graphiques, calculs de lumière et optimisation des performances.
 3ème année : Application web – Calendrier prévisionnel
+
 🔧 Technologies utilisées : PHP (Laravel), Vue.js
 👥 Travail en groupe de 5 personnes
 - Développement d’une application web permettant la gestion d’un calendrier prévisionnel destiné aux besoins du département BUT Informatique.
