@@ -21,7 +21,7 @@
 
 3ème année : Application web – Calendrier prévisionnel <br>
 🔧 Technologies utilisées : PHP (Laravel), Vue.js <br>
-👥 Travail en groupe de 5 personnes <br>
+👥 Travail en groupe de 5 personnes
 - Développement d’une application web permettant la gestion d’un calendrier prévisionnel destiné aux besoins du département BUT Informatique.
 - Remplacement d’une ancienne application en proposant une version moderne, optimisée et ergonomique.
 - Coordination en groupe pour assurer un développement agile et itératif avec des livrables réguliers.
