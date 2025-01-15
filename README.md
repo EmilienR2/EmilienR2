@@ -4,10 +4,27 @@
 ✨Passion : Le sport tel que le volley-ball ou le tennis. Les jeux-vidéos, principalement des jeux aux mondes ouverts mais aussi multijoueurs. Pour finir les mangas, de tout type.
 
 # Projets :
-- 1ère année : développement d'un jeu de société ("Le Verger") en Java et JavaFX en binôme que nous devions construire de zéro. Nous devions versionner ce projet afin de répondre aux attentes à chaque étape du projet. Nous avons dû nous occuper aussi bien du bon déroulement du jeu que de l'interface et des interactions de l'utilisateur.
-- 2ème année : développement d'une application en C++ sur du Ray Tracing (groupe de 4) à partir d'un squelette de code nous avions une image finale d'un rendu 3d et devions implémenter les différentes méthodes de plusieurs classes afin de recréer parfaitement l'image finale et par la suite créer nos propres images avec d'autres formes et d'autres effets de lumières.
-- 3ème année : développement d'une application web en groupe de 5. L'application est un calendrier prévisionnel développé en PHP Laravel et VueJS afin de remplacer l'application existante au sein du BUT Informatique.
-  
+1ère année : Jeu de société "Le Verger"
+🔧 Technologies utilisées : Java, JavaFX
+👥 Travail en binôme
+- Création de l’intégralité d’un jeu de société en version numérique.
+- Développement du gameplay, des interactions utilisateur et de l’interface graphique.
+- Mise en place du versioning avec Git pour gérer les différentes étapes du projet.
+- Gestion des contraintes fonctionnelles et techniques pour garantir un produit final stable et intuitif.
+2ème année : Application Ray Tracing
+🔧 Technologies utilisées : C++
+👥 Travail en groupe de 4 personnes
+- Partant d’un squelette de code, implémentation de diverses méthodes pour recréer des rendus 3D précis (formes, effets de lumière).
+- Réalisation d’une image 3D correspondant aux attentes spécifiées, puis création d’images originales.
+- Approfondissement des concepts d’algorithmes graphiques, calculs de lumière et optimisation des performances.
+3ème année : Application web – Calendrier prévisionnel
+🔧 Technologies utilisées : PHP (Laravel), Vue.js
+👥 Travail en groupe de 5 personnes
+- Développement d’une application web permettant la gestion d’un calendrier prévisionnel destiné aux besoins du département BUT Informatique.
+- Remplacement d’une ancienne application en proposant une version moderne, optimisée et ergonomique.
+- Coordination en groupe pour assurer un développement agile et itératif avec des livrables réguliers.
+- Intégration front-end (Vue.js) et back-end (Laravel) pour une application dynamique et fonctionnelle.
+
 # Langages et outils :
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg' width = '40' height="40"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg' width = '40' height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
