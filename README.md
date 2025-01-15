@@ -2,14 +2,14 @@
 # Qui suis-je ?
 ❓Je suis actuellement étudiant en 3e année de BUT Informatique. <br>
 👤Soft Skills : <br>
-Sens du relationnel, travail en équipe, autonomie, ouverture d’esprit, ponctualité <br>
+- Sens du relationnel, travail en équipe, autonomie, ouverture d’esprit, ponctualité <br>
 ⚙️Compétences techniques : <br>
-Réseau - Modèle OSI, TCP/IP, UDP, DNS, ARP, Ethernet, Wifi <br>
-Virtualisation - VirtualBox, Docker <br>
-IHM - VueJS, Javascript, CSS, HTML, JavaFX <br>
-Base de données - MariaDB, Mysql <br>
-OS - Android/Windows/Linux (Debian, Ubuntu) <br>
-Mobile - Développement Android, Kotlin, .NET MAUI <br>
+- Réseau - Modèle OSI, TCP/IP, UDP, DNS, ARP, Ethernet, Wifi <br>
+- Virtualisation - VirtualBox, Docker <br>
+- IHM - VueJS, Javascript, CSS, HTML, JavaFX <br>
+- Base de données - MariaDB, Mysql <br>
+- OS - Android/Windows/Linux (Debian, Ubuntu) <br>
+- Mobile - Développement Android, Kotlin, .NET MAUI <br>
 ✨Passion : Le sport tel que le volley-ball ou le tennis. Les jeux-vidéos, principalement des jeux aux mondes ouverts mais aussi multijoueurs. Pour finir les mangas, de tout type.
 
 # Projets :
