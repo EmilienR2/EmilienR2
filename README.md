@@ -4,24 +4,24 @@
 ✨Passion : Le sport tel que le volley-ball ou le tennis. Les jeux-vidéos, principalement des jeux aux mondes ouverts mais aussi multijoueurs. Pour finir les mangas, de tout type.
 
 # Projets :
-1ère année : Jeu de société "Le Verger"
-🔧 Technologies utilisées : Java, JavaFX
-👥 Travail en binôme
+1ère année : Jeu de société "Le Verger" <br>
+🔧 Technologies utilisées : Java, JavaFX  <br>
+👥 Travail en binôme <br>
 - Création de l’intégralité d’un jeu de société en version numérique.
 - Développement du gameplay, des interactions utilisateur et de l’interface graphique.
 - Mise en place du versioning avec Git pour gérer les différentes étapes du projet.
 - Gestion des contraintes fonctionnelles et techniques pour garantir un produit final stable et intuitif.
 
-2ème année : Application Ray Tracing
-🔧 Technologies utilisées : C++
-👥 Travail en groupe de 4 personnes
+2ème année : Application Ray Tracing <br>
+🔧 Technologies utilisées : C++ <br>
+👥 Travail en groupe de 4 personnes <br>
 - Partant d’un squelette de code, implémentation de diverses méthodes pour recréer des rendus 3D précis (formes, effets de lumière).
 - Réalisation d’une image 3D correspondant aux attentes spécifiées, puis création d’images originales.
 - Approfondissement des concepts d’algorithmes graphiques, calculs de lumière et optimisation des performances.
-3ème année : Application web – Calendrier prévisionnel
 
-🔧 Technologies utilisées : PHP (Laravel), Vue.js
-👥 Travail en groupe de 5 personnes
+3ème année : Application web – Calendrier prévisionnel <br>
+🔧 Technologies utilisées : PHP (Laravel), Vue.js <br>
+👥 Travail en groupe de 5 personnes <br>
 - Développement d’une application web permettant la gestion d’un calendrier prévisionnel destiné aux besoins du département BUT Informatique.
 - Remplacement d’une ancienne application en proposant une version moderne, optimisée et ergonomique.
 - Coordination en groupe pour assurer un développement agile et itératif avec des livrables réguliers.
